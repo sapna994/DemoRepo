@@ -8,6 +8,11 @@ public class BaseTest {
 	{
 		System.out.print("xyzz");
 	}
+	@Test
+	public void test1()
+	{
+		System.out.print("xyzz");
+	}
 
 
 }
